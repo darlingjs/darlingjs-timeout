@@ -1,0 +1,29 @@
+{
+  "name": "darlingjs-timeout",
+  "version": "1.0.0",
+  "description": "timeout system for darlingjs game engine",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darlingjs/darlingjs-timeout.git"
+  },
+  "keywords": [
+    "timeout",
+    "darlingjs"
+  ],
+  "author": "Eugene Krevenets <ievgenii.krevenets@gmail.com> (http://hyzhak.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darlingjs/darlingjs-timeout/issues"
+  },
+  "homepage": "https://github.com/darlingjs/darlingjs-timeout#readme",
+  "dependencies": {
+    "darlingjs": "darlingjs/darlingjs#1.0"
+  }
+}
